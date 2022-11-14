@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sadaka", ".", "{96A1D380-8197-44E1-B94B-35645CDCBB9B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58798"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\sadaka\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58798\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58798"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\sadaka\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58798\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58798"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A1D380-8197-44E1-B94B-35645CDCBB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A1D380-8197-44E1-B94B-35645CDCBB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {930C7D07-B19D-4F13-A23D-FD0ED7845F6D}
+	EndGlobalSection
+EndGlobal
